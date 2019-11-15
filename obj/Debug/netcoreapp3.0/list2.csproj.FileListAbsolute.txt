@@ -1,0 +1,11 @@
+/Users/arynweatherly/workspace/csharp/exercises/list2/bin/Debug/netcoreapp3.0/list2
+/Users/arynweatherly/workspace/csharp/exercises/list2/bin/Debug/netcoreapp3.0/list2.deps.json
+/Users/arynweatherly/workspace/csharp/exercises/list2/bin/Debug/netcoreapp3.0/list2.runtimeconfig.json
+/Users/arynweatherly/workspace/csharp/exercises/list2/bin/Debug/netcoreapp3.0/list2.runtimeconfig.dev.json
+/Users/arynweatherly/workspace/csharp/exercises/list2/bin/Debug/netcoreapp3.0/list2.dll
+/Users/arynweatherly/workspace/csharp/exercises/list2/bin/Debug/netcoreapp3.0/list2.pdb
+/Users/arynweatherly/workspace/csharp/exercises/list2/obj/Debug/netcoreapp3.0/list2.csprojAssemblyReference.cache
+/Users/arynweatherly/workspace/csharp/exercises/list2/obj/Debug/netcoreapp3.0/list2.AssemblyInfoInputs.cache
+/Users/arynweatherly/workspace/csharp/exercises/list2/obj/Debug/netcoreapp3.0/list2.AssemblyInfo.cs
+/Users/arynweatherly/workspace/csharp/exercises/list2/obj/Debug/netcoreapp3.0/list2.dll
+/Users/arynweatherly/workspace/csharp/exercises/list2/obj/Debug/netcoreapp3.0/list2.pdb
